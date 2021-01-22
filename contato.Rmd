@@ -1,0 +1,20 @@
+---
+title: "Contato"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+### <i class="fa fa-phone"></i> Celular
+
++55 (31) 9 9272-7239
+
+
+### <i class="fa fa-envelope"></i>
+
+felipe.a.drumond@gmail.com
+
+

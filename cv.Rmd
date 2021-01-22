@@ -1,0 +1,132 @@
+---
+title: "Felipe Drumond Araújo"
+description: "29 anos, Data de Nascimento: 02/10/1991 <br> Alameda Oscar Niemeyer, 858, ap 401, Vila da Serra, Nova Lima - MG"
+output:
+  distill::distill_article:
+    toc: true
+    css: style.css
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+## <i class="fa fa-graduation-cap"></i> Educação
+### 2010-2014
+**- Escola de Governo Professor Paulo Neves de Carvalho, Fundação João Pinheiro - MG**
+<br> *Graduação*
+<br>Curso: Administração Pública;
+<br> Monografia: Diretrizes para uma política pública interfederativa de desenvolvimento das capacidades estatais dos municípios mineiros. Orientador Mauro César da Silveira. [Trabalho base para implementação do Programa de Residência em Gestão Municipal.](http://www.enabrasil.sc.gov.br/projetos/programa-de-residencia-em-gestao-municipal/)
+
+
+### 2017-2018
+**- Udemy** 
+<br> *Formação de 180 horas*
+<br>Curso: Formação em Cientista de Dados.
+
+
+## <i class="fas fa-user-tie"></i> Experiências profissionais
+
+### Abr. 2020 – Presente
+**- Instituto República e Frente Parlamentar Mista da Reforma Administrativa, Congresso Nacional**
+<br> Coordenador Técnico 
+<br> - Responsável técnico pela agenda legislativa (mudanças constitucionais e legislações infraconstitucional) para modernização da gestão pública brasileira.
+<br> - Condução de diálogos com entidades sindicais e instituições do 3°setor relacionadas a pauta;
+<br> - Elaboração de propostas legislativas para criação e modificações a respeito de serviço público de alta direção, concursos públicos, estabilidade, vínculos e força de trabalho temporária.
+
+
+### Jul 2020 – Dez 2020
+**- Fundação Lemann**
+<br>Consultor part time
+<br>- Suporte técnico a especialista na elaboração de propostas para modernização da gestão de pessoas
+<br>- Elaboração de Policy Briefings sobre modelos internacionais de gestão de pessoas sobre: modelo de alta direção, modelo de carreiras e avaliação de desempenho;
+<br>- Condução de Debates com especialistas para desenho de propostas de modernização da gestão de pessoas no serviço público brasileiro.
+
+
+### Set 2019 – Jun 2020
+**- Banco Mundial**
+<br>Consultor part time
+<br>- Suporte técnico em gestão pública e análise de dados 
+<br>- Realização de benchmarkings internacionais para apoio ao desenho da Reforma Administrativa pelo Ministério da Economia;
+<br>- Suporte na elaboração dos documentos do projeto de empréstimo “Brazil Pro-Gestão”;
+<br>- Desenho do modelo de visualização de dados do report executivo do COVID-19 do Governo do Estado do Rio Grande do Sul;
+<br>- Support in the design of regional COVID-19 sanitary rules, Rio Grande do Sul State Government.
+
+
+### Dez 2016 – Abr 2020
+**- EloGroup, consultoria e desenvolvimento S/A**
+<br>Gerente
+<br>- Responsável pela carteira de projetos na área de gestão de pessoas da consultoria, tendo participado de cerca de 20 projetos no tema, dentre eles, destacam-se:
+<br>- Coordenador do maior projeto de dimensionamento da Força de Trabalho do Estado brasileiro – Secretaria de Planejamento do Governo do Estado do Ceará e Banco Mundial (2017-2018);
+<br>- Coordenador do projeto de criação de um novo modelo de carreiras e cargos para a administração pública brasileira – Secretaria de Planejamento do Governo do Estado do Ceará e Banco Mundial (2017-2018);
+<br>- Coordenador de projetos de criação de processos seletivos para cargos comissionais – Agenda Brasil do Futuro (2016), Secretaria Municipal de Gestão da Prefeitura de SP (2017), Fundação Lemann (2019);
+<br>- Coordenador da elaboração do Masterplan de Gestão Pessoas do Governo do Estado do Rio Grande do Sul (2019-2020)
+<br>- Coordenador da criação do produto de Atendimento Digital ao COVID (2020);
+<br>- Coordenador de estudos sobre gestão de pessoas – Microsoft (2017) e Centro de Liderança Pública (2018);
+<br>- Experiência internacional em projetos de consultoria, coordenação de projeto elaboração de plano de Modernização da Gestão de Pessoas para o Ministério da Eucação de El Salvador - Banco Mundial (2019).
+
+
+### Jan 2015 – Dez 2016
+**- Secretaria de Planejamento e Gestão, Governo do Estado de Minas Gerais**
+Especialista em Políticas Públicas e Gestão Governamental 
+<br> - Avaliação de políticas públicas - programa Reinventando o Ensino Médio e Travessia Social: Um Leite Pela Vida; Desenvolvimento e aplicação de método de participação popular;
+<br> - Fóruns Regionais de Governo; Elaboração do Ciclo de Inovação na Gestão Pública do Governo do Estado de Minas Gerais; Coordenador do grupo de trabalho de apoio a gestão municipal (GATAM) e elaboração de políticas de melhoria da gestão municipal.
+
+
+### Jan 2015 – Dez 2016
+**- Pro Pública Brasil – Federação Brasileira dos Profissionais do Campo de Públicas** 
+Presidente
+<br> - Elaboração do projeto e advocacy para do programa de Residência em Gestão Pública e Municipal; Acompanhamento da implementação e execução do programa de Residência em Gestão Municipal pelo governo do estado de Santa Catarina; Representação institucional com órgãos de governo, terceiro setor e conselho notório; Elaboração e acompanhamento do Planejamento Estratégico.
+
+
+
+## <i class="fa fa-desktop"></i> Conhecimento Computacional 
+**•	Ferramentas de Análise de Dados**
+<br> *R Studio, Excel, Microsoft PowerBI* (Avançado) 
+<br> Pentaho (Básico)
+
+<br>**•	Ferramentas de Visualização de Dados**
+<br> *Microsoft PowerBI, QlikView e Tableau* (Avançado)
+
+<br>**•	Ferramentas de Geoposicionamento** 
+<br> *Qgis e ArcGis* (Avançado)
+
+<br>**•	Pacote Office**
+<br> *Word, Power Point, Excel* (Avançado)
+
+
+## <i class="fa fa-closed-captioning"></i> Idiomas
+**•	Espanhol**
+<br> Leitura: Avançado
+<br> Escuta: Avançado
+<br> <i class="fa fa-pencil-alt"></i> Escrita: Avançado, 
+<br> Fala: Intermediário
+
+
+**•	Inglês**
+<br> Leitura: Avançado
+<br> Escuta: Avançado
+<br> <i class="fa fa-pencil-alt"></i> Escrita: Avançado
+<br> Fala: Intermediário
+
+
+
+## Referências 
+**•	Francisco Gaetani**
+<br> <i class="fa fa-briefcase"></i> *Ex Secretário Executivo do Ministério do Planejamento*
+<br> <i class="fa fa-envelope"></i> Email: fgaetani@gmail.com 
+
+**•	André Rego Macieira**
+<br> <i class="fa fa-briefcase"></i> *Sócio Diretor, consultoria EloGroup*
+<br> <i class="fa fa-envelope"></i> Email: andre.macieira@elogroup.com.br
+
+**•	Daniel Ortega Nieto**
+<br> <i class="fa fa-briefcase"></i> *Especialista Sênior, Banco Mundial* 
+<br> <i class="fa fa-envelope"></i> Email: dorteganieto@worldbank.org
+
+**•	Tiago Mitraud**
+<br> <i class="fa fa-briefcase"></i> *Deputado Federal, Presidente da Frente Parlamentar Mista da Reforma Administrativa*
+<br> <i class="fa fa-envelope"></i> Email: tiago@mitraud.com
+
+
+

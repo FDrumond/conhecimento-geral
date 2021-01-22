@@ -1,0 +1,22 @@
+---
+title: "Publicações"
+output:
+  distill::distill_article:
+    toc: true
+    css: style.css
+---
+
+### <i class="fa fa-book"></i>  Livros, capítulo de livros e artigos
+*	Coautor do Livro [“Os Municípios vão as Nuvens”](https://www.amazon.com.br/munic%C3%ADpios-v%C3%A3o-nuvens-revolu%C3%A7%C3%A3o-desenvolvimento-ebook/dp/B08P64MK6K), Fundação Getúlio Vargas, 2020
+*	Coautor do Artigo [“O Movimento do Campo de Públicas e a Proposta de Residências em Gestão Municipal: Uma Alternativa para Aumento das Capacidades Estatais dos Municípios”](http://consad.org.br/wp-content/uploads/2017/05/Painel-08_011.pdf), CONSAD – Congresso Nacional de Secretários Estaduais de Gestão Pública, 2018 
+*	Coautor do Artigo [“A Experiência Mineira com uma Unidade de Entrega: um Estudo de Caso da Parceria do Escritório de Prioridades Estratégicas com a Secretaria de Estado de Educação”](http://www.sgc.goias.gov.br/upload/arquivos/2013-12/a-experiencia-mineira-com-uma-unidade-de-entrega.pdf), CONSAD – Congresso Nacional de Secretários Estaduais de Gestão Pública, 2014
+
+
+
+### <i class="fa fa-youtube"></i> Mídia escrita
+*["Congresso pode ampliar mudanças na reforma administrativa e mexer em cargo comissionado"](https://oglobo.globo.com/economia/congresso-pode-ampliar-mudancas-na-reforma-administrativa-mexer-em-cargo-comissionado-24650741)(O Globo,21/09/2020)
+
+
+### <i class="fa fa-microphone"></i> Palestras, Webinários
+[![](http://img.youtube.com/vi/f13oJWfv86g/0.jpg)](http://www.youtube.com/watch?v=f13oJWfv86g "") 
+
