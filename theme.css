@@ -46,7 +46,7 @@
   font-size: 20px;
 }
 
-html, body, p, h2 {
+html, p, h2 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 200;
   line-height: 1.3; 
@@ -80,3 +80,35 @@ d-title h1 {
   font-weight: bold;
 }
 
+body {
+padding-top: 2,5rem;
+font-weight: 800;
+color: #fff;
+background: 
+    /* top, transparent red, faked with gradient */ 
+    linear-gradient(
+      rgba(77,150,77, 0.85), 
+      rgba(77,150,77, 0.85)
+    ),
+    /* bottom, image */
+    url(images/luiz-felipe-silva-carmo-zvg6_GXfxEo-unsplash.jpg) no-repeat center center fixed;
+background-size:cover !important;
+}
+
+.highcharts-container text {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+d-title h1 {
+  color:#FFFFFF;
+  text-align: center;
+  font-weight: bold;
+  font-stretch: semi-condensed;
+}
+
+
+d-article>p>img {
+    width: 30%;
+    text-align: center;
+}

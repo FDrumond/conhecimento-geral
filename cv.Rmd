@@ -110,23 +110,3 @@ Presidente
 <br> Fala: Intermediário
 
 
-
-## Referências 
-**•	Francisco Gaetani**
-<br> <i class="fa fa-briefcase"></i> *Ex Secretário Executivo do Ministério do Planejamento*
-<br> <i class="fa fa-envelope"></i> Email: fgaetani@gmail.com 
-
-**•	André Rego Macieira**
-<br> <i class="fa fa-briefcase"></i> *Sócio Diretor, consultoria EloGroup*
-<br> <i class="fa fa-envelope"></i> Email: andre.macieira@elogroup.com.br
-
-**•	Daniel Ortega Nieto**
-<br> <i class="fa fa-briefcase"></i> *Especialista Sênior, Banco Mundial* 
-<br> <i class="fa fa-envelope"></i> Email: dorteganieto@worldbank.org
-
-**•	Tiago Mitraud**
-<br> <i class="fa fa-briefcase"></i> *Deputado Federal, Presidente da Frente Parlamentar Mista da Reforma Administrativa*
-<br> <i class="fa fa-envelope"></i> Email: tiago@mitraud.com
-
-
-

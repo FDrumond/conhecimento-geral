@@ -5,13 +5,13 @@ search: true
 navbar:
   right:
     - text: "HOME"
-      href: home.html
+      href: index.html
     - text: "CV"
       href: cv.html
     - text: "PUBLICACOES"
       href: publicacoes.html
     - text: "BLOG"
-      href: index.html
+      href: https://fdrumond.github.io/fdrumond_blog
     - text: "CONTATO"
       href: contato.html
     - icon: fa fa-github
