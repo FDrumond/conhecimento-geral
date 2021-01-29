@@ -1,6 +1,6 @@
 ---
 title: "Felipe Drumond Araújo"
-description: "29 anos, Data de Nascimento: 02/10/1991 <br> Alameda Oscar Niemeyer, 858, ap 401, Vila da Serra, Nova Lima - MG"
+description: 
 output:
   distill::distill_article:
     toc: true
