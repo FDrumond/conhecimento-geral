@@ -35,6 +35,8 @@
   background-color: #696969;
   font-family: 'Montserrat', sans-serif;
   font-size: 10px;
+  height: 25px;
+  vertical-align: baseline;
 }
 
 .posts-list .metadata .publishedDate {
@@ -82,13 +84,12 @@ d-title h1 {
 }
 
 body {
-padding-top: 2,5rem;
+padding-top: 2rem;
 font-weight: 800;
 color: #fff;
 background: 
     /* top, transparent red, faked with gradient */ 
     linear-gradient(
-      rgba(0,30,0, 0.95), 
       rgba(0,30,0, 0.95)
     ),
     /* bottom, image */
