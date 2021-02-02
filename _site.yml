@@ -1,8 +1,8 @@
 name: "Felipe Drumond"
 title: "Felipe Drumond"
 description: |
-search: true
 navbar:
+  search: false
   right:
     - text: "HOME"
       href: index.html
